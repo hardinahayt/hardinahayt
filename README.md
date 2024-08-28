@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @hardinahayt
+- 👀 I’m interested in mobile and web development, particularly in building intuitive user interfaces and seamless user experiences.
+- 🌱 I’m currently learning advanced Flutter techniques and exploring backend development with Node.js.
+- 💞️ I’m looking to collaborate on innovative app development projects, especially those involving cross-platform solutions or complex UI/UX challenges.
+- 📫 How to reach me: You can reach me via email at hardinhayat@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/hi-priyanshu/.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I once built a fully functional mobile app prototype in just 48 hours as part of a hackathon!
